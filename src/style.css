@@ -1,0 +1,6 @@
+#users-table th,
+#users-table td {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-clip: padding-box;
+}

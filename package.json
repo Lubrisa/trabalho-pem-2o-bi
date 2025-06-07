@@ -1,0 +1,16 @@
+{
+  "name": "trabalho-2bi",
+  "version": "1.0.0",
+  "description": "Trabalho para a disciplina de Programação em Microinformática, 2º Bimestre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luigi Campregher França",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
